@@ -21,7 +21,7 @@
 			<td valign="top" width="50%">
 				<div align="center">  
 					<h3 color="white">Pokédex</h3>
-					<a href='https://pokedex-cng.herokuapp.com/'>
+					<a href='https://pokedex-cng.herokuapp.com/' target="_blank">
 						<img src="https://github.com/cng008/pokedex/blob/main/static/images/md/homepage.png?raw=true" alt="pokemon search homepage" height="250px"/>
 					</a>
 					<br>
@@ -40,7 +40,7 @@
 			<td valign="top" width="50%">
 				<div align="center">  
 					<h3 color="white">Connect 4</h3>
-					<a href='https://cng008.github.io/11_connect-four/'>
+					<a href='https://cng008.github.io/11_connect-four/' target="_blank">
 						<img src="https://github.com/cng008/11_connect-four/blob/main/connect-four-demo.gif?raw=true" alt="Connect 4 demo gif" height="250px"/>
 					</a>
 					<br>
@@ -59,7 +59,7 @@
 		<td valign="top" width="50%">
 			<div align="center">  
 				<h3 color="white">Jeopardy!</h3>
-				<a href='https://cng008.github.io/15_Jeopardy/'>
+				<a href='https://cng008.github.io/15_Jeopardy/' target="_blank">
 					<img src="https://github.com/cng008/15_Jeopardy/blob/main/jeopardy.gif?raw=true" alt="Jeopardy demo gif" height="250px"/>
 				</a>
 				<br>
@@ -78,7 +78,7 @@
 		<td valign="top" width="50%">
 			<div align="center">  
 				<h3 color="white">TV Maze</h3>
-				<a href='https://cng008.github.io/14.3_AJAX-apis-tvmaze/'>
+				<a href='https://cng008.github.io/14.3_AJAX-apis-tvmaze/' target="_blank">
 					<img src="https://github.com/cng008/14.3_AJAX-apis-tvmaze/blob/main/tv-maze-demo.gif?raw=true" alt="TV Maze demo gif" height="250px"/>
 				</a>
 				<br>
