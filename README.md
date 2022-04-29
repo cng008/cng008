@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on a fun project
-- 🤔 I’m looking for help with discovering networking events
+- 🤔 I’m looking for help with networking
 - 💬 Ask me about my slide-loving dog 🛝🐶
-- 📫 How to reach me: leave me a message on LinkedIn
+- 📫 How to reach me: leave me a message on LinkedIn (-:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can recite the alphabet backwards in under 5 seconds
 
@@ -22,7 +22,7 @@
 				<div align="center">  
 					<h3 color="white">Pokédex</h3>
 					<a href='https://pokedex-cng.herokuapp.com/' target="_blank">
-						<img src="https://github.com/cng008/pokedex/blob/main/static/images/md/homepage.png?raw=true" alt="pokemon search homepage" height="250px"/>
+						<img src="https://github.com/cng008/pokedex/blob/main/static/images/md/pokedex-demo.gif?raw=true" alt="pokemon search homepage" height="250px"/>
 					</a>
 					<br>
 					<br>
