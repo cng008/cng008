@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on finishing up my bootcamp curriculum and applying to jobs
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 👯 I’m looking to collaborate on a fun project
 - 🤔 I’m looking for help with networking
@@ -39,40 +39,40 @@
 			</td>
 			<td valign="top" width="50%">
 				<div align="center">  
-					<h3 color="white">Connect 4</h3>
-					<a href='https://cng008.github.io/11_connect-four/' target="_blank">
-						<img src="https://github.com/cng008/11_connect-four/blob/main/connect-four-demo.gif?raw=true" alt="Connect 4 demo gif" height="250px"/>
+					<h3 color="white">Spotify Web Player Clone</h3>
+					<a href='https://github.com/cng008/spotify-web-player-clone' target="_blank">
+						<img src="https://github.com/cng008/spotify-web-player-clone/blob/47ab36f4e71d3c5ddbfd3f5a2a1cda2ffe21c05b/static/spotify-web-clone-demo.gif?raw=true" alt="spotify clone demo gif" height="250px"/>
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/cng008/11_connect-four" target="_blank">
+						<a href="https://github.com/cng008/spotify-web-player-clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://cng008.github.io/11_connect-four/" target="_blank">
+						<a href="http://cng008-spotify-clone.surge.sh/" target="_blank">
 							<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 						</a>	
 					</p>
-					 <p><strong>JavaScript, CSS3, HTML5</strong> - A classic game as my first attempt to work with OOP.</p>
+					<p><strong>PostgreSQL, Express, React Node</strong> - Surface level clone of Spotify's web player.</p>
 				</div>
 		<tr>
 		<td valign="top" width="50%">
 			<div align="center">  
-				<h3 color="white">Jeopardy!</h3>
-				<a href='https://cng008.github.io/15_Jeopardy/' target="_blank">
-					<img src="https://github.com/cng008/15_Jeopardy/blob/main/jeopardy.gif?raw=true" alt="Jeopardy demo gif" height="250px"/>
+				<h3 color="white">Connect 4</h3>
+				<a href='https://cng008.github.io/11_connect-four/' target="_blank">
+					<img src="https://github.com/cng008/11_connect-four/blob/main/connect-four-demo.gif?raw=true" alt="Connect 4 demo gif" height="250px"/>
 				</a>
 				<br>
 				<br>
 				<p>
-					<a href="https://github.com/cng008/15_Jeopardy" target="_blank">
+					<a href="https://github.com/cng008/11_connect-four" target="_blank">
 						<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 					</a>  
-					<a href="https://cng008.github.io/15_Jeopardy/" target="_blank">
+					<a href="https://cng008.github.io/11_connect-four/" target="_blank">
 						<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 					</a>	
 				</p>
-				<p><strong>JavaScript, Axios, HTML, CSS</strong> - An interactive version of Jeopardy for study purposes.</p>
+				 <p><strong>JavaScript, CSS3, HTML5</strong> - A classic game as my first attempt to work with OOP.</p>
 			</div>
 		</td>
 		<td valign="top" width="50%">
@@ -123,6 +123,8 @@
 					<img src="images/tech-stack/jquery-vertical.svg" alt="jQuery" title="jQuery" height="50"/> 
 						&nbsp&nbsp&nbsp
 					<img src="images/tech-stack/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50"/> 
+						&nbsp&nbsp&nbsp
+					<img src="images/tech-stack/reactjs.svg" alt="React" title="React" height="50"/> 
 				</div>
 			</td>
 			<td valign="top" width="33.3333%">
