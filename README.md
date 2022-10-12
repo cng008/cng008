@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on finishing up my bootcamp curriculum and applying to jobs
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🔭 I’m currently working on job applications
+- 🌱 I’m currently grinding LeetCode
 - 👯 I’m looking to collaborate on a fun project
 - 🤔 I’m looking for help with networking
 - 💬 Ask me about my slide-loving dog 🛝🐶
