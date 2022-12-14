@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on job applications
-- 🌱 I’m currently grinding LeetCode
+- 🌱 I’m currently working on my portfolio
 - 👯 I’m looking to collaborate on a fun project
-- 🤔 I’m looking for help with networking
 - 💬 Ask me about my slide-loving dog 🛝🐶
 - 📫 How to reach me: leave me a message on LinkedIn (-:
 - 😄 Pronouns: She/Her
