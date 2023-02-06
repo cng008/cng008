@@ -51,7 +51,7 @@
 							<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 						</a>	
 					</p>
-					<p><strong>PostgreSQL, Express, React Node</strong> - Surface level clone of Spotify's web player.</p>
+					<p><strong>PostgreSQL, Express, React, Node</strong> - Fullstack clone of Spotify's web player.</p>
 				</div>
 		<tr>
 		<td valign="top" width="50%">
