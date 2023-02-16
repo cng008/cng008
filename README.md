@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi, I'm Christien 👋
 
-- 🌱 I’m currently working on my portfolio
+- 🌱 I’m currently working on projects using React and Typescript
 - 👯 I’m looking to collaborate on a fun project
-- 💬 Ask me about my slide-loving dog 🛝🐶
-- 📫 How to reach me: leave me a message on LinkedIn (-:
-- 😄 Pronouns: She/Her
+- 📫 How to reach me: info@christienng.com
 - ⚡ Fun fact: I can recite the alphabet backwards in under 5 seconds
 
 <!-- <br>
