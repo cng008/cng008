@@ -1,7 +1,6 @@
-### Hi, I'm Christien 👋
-
+- 👋 Hi, I'm Christien `[kris-TEEN]`
+- 👀 I’m looking to collaborate on a fun project
 - 🌱 I’m currently working on projects using React and Typescript
-- 👯 I’m looking to collaborate on a fun project
 - 📫 How to reach me: info@christienng.com
 - ⚡ Fun fact: I can recite the alphabet backwards in under 5 seconds
 
