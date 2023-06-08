@@ -16,7 +16,7 @@
 			<td valign="top" width="50%">
 				<div align="center">  
 					<h3 color="white">Pokédex</h3>
-					<a href='https://pokedex-cng.herokuapp.com/' target="_blank">
+					<a href='https://cng-pokedex.onrender.com/' target="_blank">
 						<img src="https://github.com/cng008/pokedex/blob/main/static/images/md/pokedex-demo.gif?raw=true" alt="pokemon search homepage" height="250px"/>
 					</a>
 					<br>
@@ -25,7 +25,7 @@
 						<a href="https://github.com/cng008/pokedex" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://pokedex-cng.herokuapp.com/" target="_blank">
+						<a href="https://cng-pokedex.onrender.com/" target="_blank">
 							<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 						</a>	
 					</p>
