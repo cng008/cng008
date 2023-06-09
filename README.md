@@ -44,7 +44,7 @@
 						<a href="https://github.com/cng008/spotify-web-player-clone" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="http://cng008-spotify-clone.surge.sh/" target="_blank">
+						<a href="https://cng008-spotify-clone.surge.sh/" target="_blank">
 							<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 						</a>	
 					</p>
