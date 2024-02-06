@@ -26,7 +26,7 @@
 							<img src="https://img.shields.io/badge/-WEBSITE-654EF3?style=for-the-badge"/>
 						</a>	
 					</p>
-					<p><strong>Python, HTML, CSS, Bootstrap, Flask</strong> - A platform for Pokémon fans to explore a well-documented archive of Pokémon.</p>
+					<p><strong>Python, Bootstrap, Flask, SQLAlchemy, PostgreSQL</strong> - A platform for Pokémon fans to explore a well-documented archive of Pokémon.</p>
 				</div>
 			</td>
 			<td valign="top" width="50%">
