@@ -135,7 +135,7 @@
 					<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25"/> 
 					<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="25"/>  
 					<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="25"/>  
-					<img src="https://camo.githubusercontent.com/498215ac226d60b0e9ecfc70085045a53f41c28d8549483729166f4d7d0ebb29/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d436c69636b557026636f6c6f723d374236384545266c6f676f3d436c69636b5570266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="ClickUp" height="25"/>  
+					<img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" height="25"/>  
 					<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="25"/>   	
 					<img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" height="25"/>   	
 				</div>
